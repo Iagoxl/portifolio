@@ -42,6 +42,7 @@ body {
 
 .cabecalho__menu__link:hover{ 
     color: var(--cor-hover-texto);
+    transition-duration: 0.4s;
 }
 
 .apresentacao {
@@ -107,6 +108,7 @@ body {
 
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
+    transition-duration: 0.4s;
 }
 
 
