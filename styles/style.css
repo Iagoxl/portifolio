@@ -49,9 +49,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 82px;    
-    margin-top: 1.30rem;
-    border-top: 2px solid #DCD7C9;
+    gap: 82px; 
 }
 
 .apresentacao__conteudo {
