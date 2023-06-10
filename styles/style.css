@@ -49,7 +49,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 82px;
+    gap: 82px;    
+    margin-top: 1.30rem;
+    border-top: 0.06rem solid #DCD7C9;
 }
 
 .apresentacao__conteudo {
