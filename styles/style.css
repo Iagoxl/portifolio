@@ -107,6 +107,7 @@ body {
 }
 
 .apresentacao__links__navegacao:hover {
+    text-transform: uppercase;
     background-color: var(--cor-hover);
     transition-duration: 0.4s;
 }
